@@ -1,6 +1,6 @@
 
 # Email-Spam-Detection-
-Here i have used python 2.7 to code the model 
+Here i have used python 3.5  to code the model 
 i have make both training and testing in a single program to run this model simply run the email_spam_detection.py 
 make sure u have installed all the dependacies mentioned in the code 
 code is flexible such that it will download stopwords and wordnet corpus if it is not already availabe in system
