@@ -7,3 +7,5 @@ code is flexible such that it will download stopwords and wordnet corpus if it i
 the reason i have chosen the Naivebayes classifier becausem The Naive Bayes classifier has been shown to perform surprisingly well with very small amounts of training data that most other classifiers i have used nltk toolkit to tokenize and lemmatize the word i have  used bag of words apporach because am intrested in finding current  word when given previous and nextwords for text classifaiction 
 in the last i have trained the model and predict the accuracy it will work well on sparse dataset where emails in spam and ham folder are uneven i have got 94.6% test accuracy on the enron dataset 
 still i can improve it in the next commit 
+i have also peform email spam classification using Multinomial Naive bayes noraml naive bayes configure a document as presense and absense of particular words but multinomial naive bayes explicitly confighure it as a word counts and also adjust the calculations 
+i have achive the accuracy of 95.4% for text classifiacation 
